@@ -1,7 +1,6 @@
 #!/bin/sh
 
 # TODO:
-# - ignore already-done
 # - do it on-demand by editing new-line file
 
 url="$1"
